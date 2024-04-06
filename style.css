@@ -1,0 +1,127 @@
+body{
+    font-family: "Roboto";
+ }
+ ul{
+    list-style: none;
+ }
+ header{
+    display: flex;
+    justify-content: space-around;
+    align-items: baseline;
+ }
+ h2{
+    display: flex;
+    justify-content: center;
+ }
+.Web{
+    color:rgb(33,150, 242);
+    font-family: 'Raleway';
+}
+
+.main{
+    font-family: "Roboto";
+    max-width: 1600px;;
+    max-height: 600px;
+    background-color: black;
+    margin-top: 30px;
+    
+}
+.h1{
+    font-family: "Roboto";
+    color: white;
+    display: flex;
+    justify-content: center;
+}
+.Studio{
+    color: white;
+}
+.footer{ max-width: 1600px;
+    font-family: "Roboto";
+    height: 235px;
+    background-color: black;
+}
+.StudioStudio{
+   
+    color: black;
+}
+p{
+    font-family: "Roboto";
+    color: grey;
+}
+
+
+.main-button{
+    font-family: "Roboto";
+    background-color:rgba(33, 150, 243, 1);
+    display: flex;
+    justify-content: center;
+    
+
+ }
+ .ul-text{
+    font-family: "Roboto";
+    color: rgba(255, 255, 255, 1);
+    
+ } 
+
+ .container {
+    width: 1170px ;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin: 0 auto;
+ }
+ .nav{
+    font-family: "Roboto";
+    color: black;
+    text-decoration: none;
+    margin-top: 30px;
+
+  
+ }
+ .section{
+    padding-top: 50px;
+    margin-bottom:94px ;
+    justify-content: space-around;
+ }
+ .ul{
+    margin-top: 64px;
+    margin-bottom: 94px;
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+ }
+ #Wed{
+    font-family: 'Raleway';
+ }
+
+ .section-ul{
+    margin-top: 94px;
+    margin-bottom: 94px;
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+ }
+
+ .container-section {
+   display: flex;
+   justify-content: center;
+   gap: 5px;
+ }
+
+.section-portf{
+   display: flex;
+}
+
+.potrf-ul{
+   display: flex;
+   flex-wrap: wrap;
+   padding: 0;
+   gap: 15px;
+}
+.li{
+   max-width: 370px;
+}
+.btn:hover{
+   color: white;
+   background-color: #2196F3;
+}
